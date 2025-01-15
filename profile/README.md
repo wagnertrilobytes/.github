@@ -13,4 +13,4 @@ Our mission is to create a harmonious blend of engineering, computer programming
 ---
 
 [INTO THE DEEP Season Repository](https://github.com/wagnertrilobytes/into-the-deep)  
-[Website](https://wagnerrobotics.club)
+[Website](https://wagnertrilobytes.com)
